@@ -53,7 +53,7 @@
         "price": 70,
         "description": "A slightly spicy and thick soup simmered in hot and spicy and topped with fried noodles.",
         "category": "soup",
-        "image": "/https://raw.githubusercontent.com/sharma3ranjan/Major-Project/master/public/img.jpg"
+        "image": "https://raw.githubusercontent.com/sharma3ranjan/Major-Project/master/public/img.jpg"
     },
     {
         "_id": "8",
