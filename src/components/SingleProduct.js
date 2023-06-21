@@ -13,6 +13,7 @@ const SingleProduct = () => {
     fetch(`https://star-spark-pasta.glitch.me/api/products/${params._id}`)
       .then((res) => res.json())
       .then((product) => {
+        console.log(product);
         setProduct(product);
       });
   }, [params._id]);
@@ -54,7 +55,7 @@ const SingleProduct = () => {
       <div className="flex ">
         <img src={product.image} draggable="false" alt="pizza" />
         <div className="ml-16">
-          <h1 className="text-xl font-bold">{product.name}</h1>
+          <h1 className="text-xl font-bold">{product.title}</h1>
           <div className="text-md">{product.size}</div>
           <div className="font-bold mt-2">₹{product.price}</div>
           <button

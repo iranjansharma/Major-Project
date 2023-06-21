@@ -5,7 +5,7 @@ const Products = () => {
   const [products, setProducts] = useState([]);
 
   useEffect(() => {
-    fetch("https://star-spark-pasta.glitch.me/api/products")
+    fetch("https://raw.githubusercontent.com/sharma3ranjan/Major-Project/master/dishes.json")
       .then((response) => response.json())
       .then((products) => {
         setProducts(products);

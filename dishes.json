@@ -1,5 +1,6 @@
 [
     {
+        "_id": "1",
         "title": "Chicken Crispy",
         "price": 150,
         "description": "Chicken chunks, deep-fried and tossed in a fiery red marinade of garlic, red chilli, soy. A must-try starter!",
@@ -7,6 +8,7 @@
         "image": "https://raw.githubusercontent.com/sharma3ranjan/Major-Project/master/public/img/chicken_crispy.jpg"
     },
     {
+        "_id": "2",
         "title": "Chicken Dragon",
         "price": 185,
         "description": "A hearty starter with deep-fried chicken chunks coated in a flavour-packed sauce with a strong flavor of garlic.",
@@ -14,6 +16,7 @@
         "image": "https://raw.githubusercontent.com/sharma3ranjan/Major-Project/master/public/img/chicken_dragon.jpg"
     },
     {
+        "_id": "3",
         "title": "Chicken Sangrila",
         "price": 185,
         "description": "A flavor-packed dish with succulent chicken chunks coated in seasoned batter, deep-fried, and tossed in a spicy and thick Manchurian sauce.",
@@ -21,6 +24,7 @@
         "image": "https://raw.githubusercontent.com/sharma3ranjan/Major-Project/master/public/img/chicken_sangrila.jpg"
     },
     {
+        "_id": "4",
         "title": "Chicken Lollipop",
         "price": 150,
         "description": "Juicy chicken wings covered in a fiery red marinade of garlic, red chilli, soy and deep-fried.",
@@ -28,6 +32,7 @@
         "image": "https://raw.githubusercontent.com/sharma3ranjan/Major-Project/master/public/img/chicken_lollipop.jpg"
     },
     {
+        "_id": "5",
         "title": "Chicken Mongolian",
         "price": 180,
         "description": "A deliciously spicy dish with juicy chicken chunks coated in seasoned batter, deep fried, and tossed in a hot and spicy sauce.",
@@ -35,6 +40,7 @@
         "image": "https://raw.githubusercontent.com/sharma3ranjan/Major-Project/master/public/img/chicken_mongolian.jpg"
     },
     {
+        "_id": "6",
         "title": "Tomato Soup",
         "price": 70,
         "description": "A deliciously creamy and tangy soup made from fresh, ripe tomatoes.",
@@ -42,6 +48,7 @@
         "image": "https://raw.githubusercontent.com/sharma3ranjan/Major-Project/master/public/img/tomato_soup.jpg"
     },
     {
+        "_id": "7",
         "title": "Veg Manchow Soup",
         "price": 70,
         "description": "A slightly spicy and thick soup simmered in hot and spicy and topped with fried noodles.",
@@ -49,6 +56,7 @@
         "image": "/https://raw.githubusercontent.com/sharma3ranjan/Major-Project/master/public/img.jpg"
     },
     {
+        "_id": "8",
         "title": "Veg Hot and Sour Soup",
         "price": 80,
         "description": "A delectable hot and sour soup packed with the goodness of vegetables.",
@@ -56,6 +64,7 @@
         "image": "https://raw.githubusercontent.com/sharma3ranjan/Major-Project/master/public/img/veg_hot_and_sour_soup.jpg"
     },
     {
+        "_id": "9",
         "title": "Veg Clear Soup",
         "price": 50,
         "description": "A flavour packed soup prepared from vegetables simmered in a seasoned vegetable stock.",
@@ -63,6 +72,7 @@
         "image": "https://raw.githubusercontent.com/sharma3ranjan/Major-Project/master/public/img/veg_clear_soup.jpg"
     },
     {
+        "_id": "10",
         "title": "Chicken Clear Soup",
         "price": 70,
         "description": "A flavour packed soup prepared by simmering chicken slivers in a seasoned stock.",
@@ -70,6 +80,7 @@
         "image": "https://raw.githubusercontent.com/sharma3ranjan/Major-Project/master/public/img/chicken_clear_soup.jpg"
     },
     {
+        "_id": "11",
         "title": "Chicken Manchow Soup",
         "price": 80,
         "description": "A slightly spicy and thick soup simmered in hot and spicy flavors with chicken chunks, topped with fried noodles.",
@@ -77,6 +88,7 @@
         "image": "https://raw.githubusercontent.com/sharma3ranjan/Major-Project/master/public/img/chicken_manchow_soup.jpg"
     },
     {
+        "_id": "12",
         "title": "Chicken Hot and Sour Soup",
         "price": 80,
         "description": "A delectable yet tangy flavoured soup packed with chicken chunks - served with fried noodles.",
@@ -84,6 +96,7 @@
         "image": "https://raw.githubusercontent.com/sharma3ranjan/Major-Project/master/public/img/chicken_hot_and_sour_soup.jpg"
     },
     {
+        "_id": "13",
         "title": "Butterscotch Cake [500 grams]",
         "price": 300,
         "description": "Vanilla base layered with caramel blended vanilla cream and loaded with crunchy butter scotch nuts. Eggless cake",
@@ -91,6 +104,7 @@
         "image": "https://raw.githubusercontent.com/sharma3ranjan/Major-Project/master/public/img/butterscotch_cake.jpg"
     },
     {
+        "_id": "14",
         "title": "Choco Truffle Cake [500 grams]",
         "price": 320,
         "description": "Chocolate sponge layered with a delightful combination of chocolate truffle and chocolate cream. Eggless cake",
@@ -98,6 +112,7 @@
         "image": "https://raw.githubusercontent.com/sharma3ranjan/Major-Project/master/public/img/choco_truffle_cake.jpg"
     },
     {
+        "_id": "15",
         "title": "Blueberry Cake [500 grams]",
         "price": 290,
         "description": "Delicious cake with sweet blueberry compote, served cold.",
@@ -105,55 +120,63 @@
         "image": "https://raw.githubusercontent.com/sharma3ranjan/Major-Project/master/public/img/blueberry_cake.jpg"
     },
     {
+        "_id": "16",
         "title": "Pineapple Cake [500 grams]",
         "price": 290,
         "description": "Vanilla sponge, vanilla cream, loaded with juicy pineapple cubes and added pineapple crush to enhance flavour. Eggless cake",
         "category": "cake",
-        "image": "/img/dishes/pineapple_cake.jpg"
+        "image": "https://raw.githubusercontent.com/sharma3ranjan/Major-Project/master/public/img/pineapple_cake.jpg"
     },
     {
+        "_id": "17",
         "title": "Chicken Dominator",
         "price": 319,
         "description": "Loaded with double pepper barbecue chicken, peri-peri chicken, chicken tikka & grilled chicken rashers",
         "category": "pizza",
-        "image": "/img/dishes/chicken_dominator.jpg"
+        "image": "https://raw.githubusercontent.com/sharma3ranjan/Major-Project/master/public/img/chicken_dominator.jpg"
     },
     {
+        "_id": "18",
         "title": "Non Veg Supreme",
         "price": 319,
         "description": "Supreme combination of black olives, onion, capsicum, grilled mushroom, pepper barbecue chicken, peri-peri chicken & grilled chicken rashers",
         "category": "pizza",
-        "image": "/img/dishes/non_veg_supremer.jpg"
+        "image": "https://raw.githubusercontent.com/sharma3ranjan/Major-Project/master/public/img/non_veg_supremer.jpg"
     },
     {
+        "_id": "19",
         "title": "Indi Tandoori Paneer",
         "price": 249,
         "description": "It is hot. It is spicy. It is oh-so-Indian. Tandoori paneer with capsicum, red paprika & mint mayo",
         "category": "pizza",
-        "image": "/img/dishes/indi_tandoori_paneer.jpg"
+        "image": "https://raw.githubusercontent.com/sharma3ranjan/Major-Project/master/public/img/indi_tandoori_paneer.jpg"
     },
     {
+        "_id": "20",
         "title": "Deluxe Veggie",
         "price": 249,
         "description": "Veg delight - onion, capsicum, grilled mushroom, corn & paneer",
         "category": "pizza",
-        "image": "/img/dishes/deluxe_veggie.jpg"
+        "image": "https://raw.githubusercontent.com/sharma3ranjan/Major-Project/master/public/img/deluxe_veggie.jpg"
     },
     {
+        "_id": "21",
         "title": "Chicken Golden Delight",
         "price": 249,
         "description": "Double pepper barbecue chicken, golden corn and extra cheese, true delight",
         "category": "pizza",
-        "image": "/img/dishes/chicken_golden_delight.jpg"
+        "image": "https://raw.githubusercontent.com/sharma3ranjan/Major-Project/master/public/img/chicken_golden_delight.jpg"
     },
     {
+        "_id": "22",
         "title": "Movie Marathons Specials (Non Veg)",
         "price": 335,
         "description": "Reg Pepper BBQ Chicken Pizza + Garlic Bread + Pepsi",
         "category": "pizza",
-        "image": "/img/dishes/movie_marathons_specials.jpg"
+        "image": "https://raw.githubusercontent.com/sharma3ranjan/Major-Project/master/public/img/movie_marathons_specials.jpg"
     },
     {
+        "_id": "24",
         "title": "Kiwi Juice",
         "price": 60,
         "description": "Made from the exotic kiwi fruit.",
@@ -161,6 +184,7 @@
         "image": "https://raw.githubusercontent.com/sharma3ranjan/Major-Project/master/public/img/kiwi_juice.jpg"
     },
     {
+        "_id": "25",
         "title": "Mix Fruit Juice",
         "price": 50,
         "description": "A classy mixture of all the fresh fruits together.",
@@ -168,6 +192,7 @@
         "image": "https://raw.githubusercontent.com/sharma3ranjan/Major-Project/master/public/img/mix_fruit_juice.jpg"
     },
     {
+        "_id": "26",
         "title": "Anaar Juice",
         "price": 50,
         "description": "Best in class Anaar juice made with real fruits and nothing else.",
@@ -175,17 +200,19 @@
         "image": "https://raw.githubusercontent.com/sharma3ranjan/Major-Project/master/public/img/anaar_juice.jpg"
     },
     {
+        "_id": "27",
         "title": "Mosambi Juice",
         "price": 35,
         "description": "Refreshing Mosambui Juice",
         "category": "juice",
-        "image": "/img/dishes/mosambi_juice.jpg"
+        "image": "https://raw.githubusercontent.com/sharma3ranjan/Major-Project/master/public/img/mosambi_juice.jpg"
     },
     {
+        "_id": "28",
         "title": "Coconut juice",
         "price": 35,
         "description": "From the trees of coconut, this natural juice will make your day!",
         "category": "juice",
-        "image": "/img/dishes/coconut_juice.jpg"
+        "image": "https://raw.githubusercontent.com/sharma3ranjan/Major-Project/master/public/img/coconut_juice.jpg"
     }
 ]
